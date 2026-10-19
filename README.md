@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Isadora 👋
 
-<!--
-**isapancho/isapancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Growth marketer turned AI-agent builder. CMO at [MOD](https://aosmod.com), an agentic AI platform.
 
-Here are some ideas to get you started:
+**What I build**
+- 🤖 Autonomous agents that research leads, draft outreach and report back, with human review where it matters
+- 📈 Growth & performance workflows: SEO audits, competitor analysis, CRM reporting
+- 🛠️ Internal tools with Claude Code that remove manual work from marketing teams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Background**
+12 years in digital marketing (SEO, AEO, CRM, acquisition) across Europe, the US and LATAM.
+
+**My rule for AI:** context, not prompts. Direct the agent, don't let it wander.
+
+📫 [LinkedIn](https://linkedin.com/in/isadoracarvalhoseo)
